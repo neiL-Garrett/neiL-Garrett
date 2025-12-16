@@ -1,7 +1,7 @@
 ```bash
 garrett@neil:~$ profile_fetch.sh
 ╭─────────────╮
-│ @ user      │ garrett-clear
+│ @ user      │ neiL-Garrett
 │ % role      │ システムエンジニア
 │ ^ uptime    │ 29 years, 5 months, 7 days
 │ * OS        │ Arch Linux, Debian 13, GrapheneOS
